@@ -1,24 +1,8 @@
 ### Hi there, Welcome to my github page!
 ## Socials
-Discord: Tornvrc  
+Discord: tocat.  
 Youtube: You don't need to know lmao  
 [Roblox](https://www.roblox.com/users/1327170156/profile)  
 ## Things I'm doing
-- Making KARMA, A Roblox script based of of the VRChat client by the same name.
-- Learning C# to do real VRChat Modding
-## I'm trans btw (Fem, She/Her)
-🏳️‍⚧️
-<!--
-**bakersrule2020/bakersrule2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing Infinite Client, the best client for ChilloutVR.
+- existing
