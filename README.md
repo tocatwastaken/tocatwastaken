@@ -4,7 +4,7 @@ Discord: tocat.
 Youtube: You don't need to know lmao  
 [Roblox](https://www.roblox.com/users/1327170156/profile)  
 ## Things I'm doing
-- Working on Synapse Y
-- Working on Aurora Client
-- questioning my past projects
-- questioning my life choices
+- Dying
+- Dating log <3
+- Bombing orphanages
+- Developing Empire Menu
